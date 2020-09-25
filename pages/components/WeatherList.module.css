@@ -1,0 +1,48 @@
+.weatherList__list {
+	display: flex;
+	flex-direction: column;
+	margin-top: 2em;
+	max-width: 600px;
+	width: 100%;
+}
+
+.weatherList__item {
+	display: flex;
+	flex-direction: row;
+	margin-top: 2em;
+	width: 100%;
+}
+
+.weatherList__date {
+	align-items: center;
+	color: #FFF;
+	display: flex;
+	flex: 2;
+	font-size: 1.2em;
+	font-weight: 500;
+	justify-content: flex-start;
+}
+
+.weatherList__group {
+	flex: 1;
+	text-align: center;
+}
+
+.weatherList__groupTemp {
+	color: #FFF;
+	display: inline;
+	font-size: 2em;
+	font-weight: 500;
+	vertical-align: middle;
+}
+
+.weatherList__groupIcon {
+	display: inline;
+	vertical-align: middle;
+}
+
+.weatherList__groupCondition {
+	color: #FFF;
+	font-size: 1em;
+	font-weight: 400;
+}

@@ -1,0 +1,15 @@
+.search__container {
+	border: 1px solid white;
+}
+
+.search__formControl {
+	width: 300px;
+}
+
+.search__button {
+	margin-top: 10px !important;
+}
+
+.search__iconTwoLines {
+	height: 66px !important;
+}

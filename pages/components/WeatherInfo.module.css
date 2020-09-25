@@ -1,0 +1,33 @@
+.weatherInfo__card {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.weatherInfo__title {
+	color: #FFF;
+	display: block;
+	font-size: 1.5em;
+	font-weight: 600;
+}
+
+.weatherInfo__subtitle {
+	color: #FFF;
+	font-weight: 500;
+}
+
+.weatherInfo__container {
+	margin-top: 1em;
+}
+
+.weatherInfo__temp {
+	color: #FFF;
+	display: inline;
+	font-size: 3em;
+	font-weight: 700;
+	vertical-align: middle;
+}
+
+.weatherInfo__icon {
+	display: inline;
+	vertical-align: middle;
+}
